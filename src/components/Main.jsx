@@ -10,7 +10,7 @@ class Main extends Component {
                  <button id="btn2"><i class="fa-solid fa-motorcycle"></i> Order Delivery</button>
             </div>
             <div id="m-img">
-                <img src="https://cdn.sanity.io/images/czqk28jt/prod_bk_us/ffd9f92b390420deffc4afb8af0e173ac1f8be32-800x450.png?w=900&q=90&fit=max&auto=format" alt='#'/>
+                <img src="https://cdn.sanity.io/images/czqk28jt/prod_bk_us/97876c636e357c965a26f603f0a10bf3dd0d3f29-800x450.png?w=1300&q=90&fit=max&auto=format" alt='#'/>
             </div>
         </div>
 

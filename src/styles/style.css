@@ -3,11 +3,12 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Flame-Bold;
+    font-family: "Flame-Bold";
+    /* border: #e63c1e solid ; */
 }
 body{
     background-color: rgb(245, 235, 220);
-    align-items: center 
+    align-items: center;
 }
 
 .navbar {
@@ -37,6 +38,7 @@ body{
     font-family: "Flame Bold";
     letter-spacing: 2px;
     text-transform: uppercase;
+    margin-left: 200px;
 }
 
 /* Right side of the navbar */
@@ -83,8 +85,8 @@ body{
     width: 100%;
     background-color: #f5ebdc;
     display: flex;
-    align-items: center; /* Center vertically */
-    justify-content: center; /* Center horizontally */
+    /* align-items: center; */
+    /* justify-content: center; Center horizontally */
 }
 
 #content{
@@ -92,12 +94,13 @@ body{
     width: 320px;
     /* border: solid 1px green; */
     position: relative;
-    left: 165px;
+    left: 450px;
     top: 110px;
 }
 #content h1{
     font-size: 4rem;
     color: rgb(80, 35, 20);
+    margin-left: 20px;
 }
 #content span{
     font-size: xx-large;
@@ -141,7 +144,7 @@ body{
     width: 670px;
     /* border: solid 1px green; */
     position: relative;
-    left: 285px;
+    left: 550px;
     top: 50px;
 }
 #m-img img{
@@ -177,10 +180,11 @@ body{
     /* border: solid red; */
     display: flex;
     flex-wrap: wrap;
-    justify-content: flex-start;
+    justify-content: center;
     padding: 0 5% 0 15%;
     gap: 10px;
     margin-top: 20px;
+    margin-right: 100px;
 }
 
 
@@ -193,6 +197,8 @@ body{
     gap: 70px;
     padding-bottom: 50px;
     margin-top: 200px;
+    align-items: center;
+    justify-content: center;
     /* border: solid magenta; */
   }
   .mob-img{

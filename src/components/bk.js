@@ -23,11 +23,6 @@ let data =[
         "title":"Think you can handle the BK® grill?",
         "about":"Hop in the kitchen and show us your Whopper®-building skills. Top each flame-grilled Whopper® with the correct toppings as the orders roll in. You could win up to 750 Crowns! Play daily through 9/22!"
     },
-    {
-        "img":"https://cdn.sanity.io/images/czqk28jt/prod_bk_us/d584d607bd05453e2f9d1b0b9c498fed54db5b84-2000x1000.png?w=812&q=80&fit=max&auto=format",
-        "title":"Get a Transformers One toy with your King Jr.™ Meal!",
-        "about":"Roll out to BK® with your little hero to get one of six exclusive Transformers One toys when you order a King Jr.™ Meal."
-    },
     
 ];
 export default data;
